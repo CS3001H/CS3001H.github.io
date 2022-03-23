@@ -262,6 +262,7 @@ img.pull-left {
 .tag ul {
 	list-style-type: none;
 	width: 100%;
+	padding: 0px;
 }
 
 .box {
